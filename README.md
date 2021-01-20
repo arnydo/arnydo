@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, it's Kyle! 👋
+
+I am a Cyber Security Engineer working in The Villages!
+
+- 🔭 I’m currently working on building a personal blog at [kyleparrish.com](https://kyleparrish.com)
+- 🌱 I’m currently learning Powershell, OSINT, Digital Forensics, WebDev (Front/Back)
+- 👯 I’m looking to collaborate on Cyber Security
+- 🐦 I tweet [@kyle_parrish_](https://twitter.com/kyle_parrish_)
+- 📝 I blog at [kyleparrish.com](kyleparrish.com)
+- ⚡ Fun fact: I like to juggle
 
 <!--
 **arnydo/arnydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
