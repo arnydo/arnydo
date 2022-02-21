@@ -1,6 +1,6 @@
 ### Hi, it's Kyle! 👋
 
-I am a Cyber Security Engineer working in The Villages!
+I am a Cyber Security Analyst, analyzing thingz!
 
 - 🔭 I’m currently working on building a personal blog at [kyleparrish.com](https://kyleparrish.com)
 - 🌱 I’m currently learning Powershell, OSINT, Digital Forensics, WebDev (Front/Back)
